@@ -1,3 +1,3 @@
 # Trial
 
-finally Git
+finally Git!
